@@ -1,6 +1,12 @@
-# whatsapp
+# whatsapp_clone
 
 A new Flutter project.
+
+![Screenshot 2023-11-21 000428](https://github.com/Shaidur-Rahaman-Tanzid/WhatsApp_Clone/assets/124720310/2a7cd27b-c038-4223-84c2-5fccfb4af55f)
+
+
+![Screenshot 2023-11-21 000150](https://github.com/Shaidur-Rahaman-Tanzid/WhatsApp_Clone/assets/124720310/f27f6490-cfcc-4552-aecd-4461ee0904ea)
+
 
 ## Getting Started
 
